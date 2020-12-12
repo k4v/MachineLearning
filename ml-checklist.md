@@ -2,14 +2,14 @@
 
 ## List of steps
 
-1. Frame the problem and look at the big picture.
-1. Get the data.
-1. Explore the data to gain insights.
-1. Prepare the data to better expose the underlying data patterns to Machine Learning algorithms.
-1. Explore many different models and shortlist the best ones.
-1. Fine-tune your models and combine them into a great solution.
-1. Present your solution.
-1. Launch, monitor, and maintain your system.
+1. [Frame](#frame-the-problem-and-look-at-the-big-picture) the problem and look at the big picture.
+1. [Get](#get-the-data) the data.
+1. [Explore](#explore-the-data) the data to gain insights.
+1. [Prepare](#prepare-the-data) the data to better expose the underlying data patterns to Machine Learning algorithms.
+1. [Shortlist](#shortlist-promising-models) the best models after exploring many different ones.
+1. [Fine-tune](#fine-tune-the-system) your models and combine them into a great solution.
+1. [Present](#fine-tune-the-system) your solution.
+1. [Launch](#launch), monitor, and maintain your system.
 
 ## Frame the Problem and Look at the Big Picture
 
